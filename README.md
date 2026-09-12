@@ -1,4 +1,4 @@
 #Frank
 Hello! I am **Frank**.
 ## About me 
-Just a 24 year old who wants to learn a skill.
+My name is Frank and i am building my way into tech.
